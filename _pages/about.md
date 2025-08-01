@@ -44,32 +44,38 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- Ph.D. Candidate (2024.09 - Now), Design Engineering
-Tongji University, Shanghai, China
+- **Ph.D. Candidate (2024.09 - Now) in Design Engineering**
+**Tongji University**, Shanghai, China
+  
+· College of Innovation and Design  
+· Advisor: Prof. Nan Cao  
+· Research Focus: Human-Computer Interaction, Aging and Technology  
 
-College of Innovation and Design
-Advisor: Prof. Nan Cao
-Research Focus: Human-Computer Interaction, Aging and Technology
+- **Master's Degree in Science (2019.09 - 2021.07)**, Innovation Desgn Engineering  
+  **Imperial College London**, London, United Kingdom  
 
-- Master's Degree in Science (2019.09 - 2021.07), Innovation Desgn Engineering
-  Imperial College London, London, United Kingdom
+  Dyson School of Engineering  
+  Major Courses: Human Computer Interaction, Innovation Product Engineering, Machine Learning, etc  
 
-  Dyson School of Engineering
-  Major Courses: Human Computer Interaction, Innovation Product Engineering, Machine Learning, etc
+- **Master's Degree in Art(2019.09 - 2021.06)**, Innovation Desgn Engineering  
+  
+  **Royal College of Art**, London, United Kingdom  
 
-- Master's Degree in Art(2019.09 - 2021.06), Innovation Desgn Engineering
-  Royal College of Art, London, United Kingdom
+  School of Design  
+  
+  Major Courses: Speculative Design, Human Centered Design, Material Futures, etc  
 
-  School of Design
-  Major Courses: Speculative Design, Human Centered Design, Material Futures, etc
+- **Bachelor’s Degree in Art(2015.09 - 2019.06)**, Visual Communication Design  
+  
+  **Zhejiang University of Technology**, Hangzhou, China  
 
-- Bachelor’s Degree in Art(2015.09 - 2019.06), Visual Communication Design
-  Zhejiang University of Technology, Hangzhou, China
-
-  Graduated with Honors
-  GPA: 3.83/4.0
-  Ranking: 1/126
-  Major Courses: User Experience, User Interface Design, Information Design, etc
+  Graduated with Honors  
+  
+  GPA: 3.83/4.0  
+  
+  Ranking: 1/126  
+  
+  Major Courses: User Experience, User Interface Design, Information Design, etc  
 
 
 # 💻 Working Experience
