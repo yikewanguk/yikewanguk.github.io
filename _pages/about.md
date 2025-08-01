@@ -29,7 +29,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Became a PhD Candidate in Tongji University!
 
-# 📝 Projects 
+# 📝 Publications 
 Under Construction
 
 # 🎖 Honors and Awards
