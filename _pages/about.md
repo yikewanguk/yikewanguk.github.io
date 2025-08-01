@@ -57,6 +57,8 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
   **Imperial College London & Royal Collge of Art**, London, United Kingdom  
 
   Dyson School of Engineering & School of Design
+
+  [Innovation Design Engineering](https://www.rca.ac.uk/study/programme-finder/innovation-design-engineering-ma-msc/)
   
   Major Courses: Human Computer Interaction, Innovation Product，Design Engineering,  Human Centered Design, etc
   
