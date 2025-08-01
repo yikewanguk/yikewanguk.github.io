@@ -46,17 +46,19 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 # 📖 Educations
 - **Ph.D. Candidate in Design Engineering(2024.09 - Now)**  
 **Tongji University**, Shanghai, China
-  · College of Innovation and Design  
-  · Advisor: Prof. Nan Cao  
-  · Research Focus: Human-Computer Interaction, Aging and Technology  
+  College of Innovation and Design
+  
+  Advisor: Prof. Nan Cao
+  
+  Research Focus: Human-Computer Interaction, Aging and Technology  
 
-- **Master's Degree in Science (2019.09 - 2021.07)**, Innovation Desgn Engineering  
+- **Master's Degree in Science (2019.09 - 2021.07)**  
   **Imperial College London**, London, United Kingdom  
 
   Dyson School of Engineering  
   Major Courses: Human Computer Interaction, Innovation Product Engineering, Machine Learning, etc  
 
-- **Master's Degree in Art(2019.09 - 2021.06)**, Innovation Desgn Engineering  
+- **Master's Degree in Art(2019.09 - 2021.06)**  
   
   **Royal College of Art**, London, United Kingdom  
 
@@ -64,7 +66,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
   
   Major Courses: Speculative Design, Human Centered Design, Material Futures, etc  
 
-- **Bachelor’s Degree in Art(2015.09 - 2019.06)**, Visual Communication Design  
+- **Bachelor’s Degree in Art(2015.09 - 2019.06)**  
   
   **Zhejiang University of Technology**, Hangzhou, China  
 
