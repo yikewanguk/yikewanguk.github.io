@@ -44,33 +44,35 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- Ph.D. Candidate in Computer Science (2024.09 - Now)
+- Ph.D. Candidate (2024.09 - Now), Design Engineering
 Tongji University, Shanghai, China
 
 College of Innovation and Design
 Advisor: Prof. Nan Cao
 Research Focus: Human-Computer Interaction, Aging and Technology
 
-- Master's Degree in Science (2019.09 - 2021.07)
+- Master's Degree in Science (2019.09 - 2021.07), Innovation Desgn Engineering
   Imperial College London, London, United Kingdom
 
   Dyson School of Engineering
+  Major Courses: Human Computer Interaction, Innovation Product Engineering, Machine Learning, etc
 
-- Master's Degree in Art(2019.09 - 2021.06)
+- Master's Degree in Art(2019.09 - 2021.06), Innovation Desgn Engineering
   Royal College of Art, London, United Kingdom
 
   School of Design
+  Major Courses: Speculative Design, Human Centered Design, Material Futures, etc
 
-- Bachelor’s Degree in Visual Art(2015.09 - 2019.06)
+- Bachelor’s Degree in Art(2015.09 - 2019.06), Visual Communication Design
   Zhejiang University of Technology, Hangzhou, China
 
   Graduated with Honors
-  GPA: 3.67/4.0
+  GPA: 3.83/4.0
   Ranking: 1/126
-  Major Courses: Digital Art, Visual Communication Design
+  Major Courses: User Experience, User Interface Design, Information Design, etc
 
 
 # 💻 Working Experience
-- *2021.09 - 2023.08*, [VML](https://www.vml.com/), China.
-- *2020.05 - 2020.09*, [TCL Tech](https://www.tcltech.com/), China.
-- *2019.05 - 2019.08*, [BIGmind], Sweden, China.
+- *2021.09 - 2023.08*, [VML](https://www.vml.com/), Shanghai, China.
+- *2020.05 - 2020.09*, [TCL Tech](https://www.tcltech.com/), Shenzhen, China.
+- *2019.05 - 2019.08*, BIGmind, Sweden and Shanghai, China.
