@@ -44,12 +44,11 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- **Ph.D. Candidate (2024.09 - Now) in Design Engineering**
+- **Ph.D. Candidate in Design Engineering(2024.09 - Now)**  
 **Tongji University**, Shanghai, China
-  
-· College of Innovation and Design  
-· Advisor: Prof. Nan Cao  
-· Research Focus: Human-Computer Interaction, Aging and Technology  
+  · College of Innovation and Design  
+  · Advisor: Prof. Nan Cao  
+  · Research Focus: Human-Computer Interaction, Aging and Technology  
 
 - **Master's Degree in Science (2019.09 - 2021.07)**, Innovation Desgn Engineering  
   **Imperial College London**, London, United Kingdom  
