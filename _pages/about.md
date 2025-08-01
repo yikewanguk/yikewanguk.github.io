@@ -19,11 +19,11 @@ redirect_from:
 
 I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at Tongji University, advised by Prof. Nan Cao. My background in Art (M.F.A, Royal College of Art) and Science (M.S.C, Imperial College London) uniquely positions me to bridge design insights with technical innovation. My research lies at the intersection of Human-Computer Interaction (HCI), Computer Supported Collaborative Work(CSCW), Accessible Techonology, and Social Computing, with a particular focus on AI-enhanced aging technologies and inclusive design. My work combines empirical user studies with technical innovation to create solutions that address real-world accessibility challenges. My goal is to advance computing technologies that truly serve human needs by promoting digital equality, enhancing accessibility, and improving quality of life for all users, especially underserved populations.
 
-**[Research Interests]**
+**[Research Interests]**:
 
-(1)Persuasive Health
+(1) Persuasive Health
 
-(2)Data Visualization
+(2) Data Visualization
 
 
 # 🔥 News
