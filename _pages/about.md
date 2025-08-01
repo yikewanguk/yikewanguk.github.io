@@ -52,4 +52,5 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.05 - 2020.09*, [TCL Tech](https://www.tcltech.com/), China.
+- *2019.05 - 2019.08*, [BIGmind], China.
