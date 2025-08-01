@@ -44,13 +44,33 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Ph.D. Candidate in Computer Science (2024.09 - Now)
+Tongji University, Shanghai, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+College of Innovation and Design
+Advisor: Prof. Nan Cao
+Research Focus: Human-Computer Interaction, Aging and Technology
 
-# 💻 Internships
+- Master's Degree in Science (2019.09 - 2021.07)
+  Imperial College London, London, United Kingdom
+
+  Dyson School of Engineering
+
+- Master's Degree in Art(2019.09 - 2021.06)
+  Royal College of Art, London, United Kingdom
+
+  School of Design
+
+- Bachelor’s Degree in Visual Art(2015.09 - 2019.06)
+  Zhejiang University of Technology, Hangzhou, China
+
+  Graduated with Honors
+  GPA: 3.67/4.0
+  Ranking: 1/126
+  Major Courses: Digital Art, Visual Communication Design
+
+
+# 💻 Working Experience
+- *2021.09 - 2023.08*, [VML](https://www.vml.com/), China.
 - *2020.05 - 2020.09*, [TCL Tech](https://www.tcltech.com/), China.
-- *2019.05 - 2019.08*, [BIGmind], China.
+- *2019.05 - 2019.08*, [BIGmind], Sweden, China.
