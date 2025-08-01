@@ -40,8 +40,8 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2019** Outstanding Graduate of Zhejiang Province (Top 1%)
+- **2018** Chinese National Scholarship, Zhejiang University of Technology (Top 1%)
 
 # 📖 Educations
 - **Ph.D. Candidate in Design Engineering(2024.09 - Now)**  
