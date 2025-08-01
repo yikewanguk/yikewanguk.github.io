@@ -24,20 +24,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - *2024.09*: &nbsp;🎉🎉 Became a PhD Candidate in Tongji University!
 
 # 📝 Projects 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Under Construction
 
 # 🎖 Honors and Awards
 - **2019** Outstanding Graduate of Zhejiang Province (Top 1%)
@@ -76,7 +63,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
   Major Courses: User Experience, User Interface Design, Information Design, etc  
 
 
-# 💻 Working Experience
+# 💻 Career
 - *2021.09 - 2023.08*, [VML](https://www.vml.com/), Shanghai, China.
 - *2020.05 - 2020.09*, [TCL Tech](https://www.tcltech.com/), Shenzhen, China.
 - *2019.05 - 2019.08*, BIGmind, Sweden and Shanghai, China.
