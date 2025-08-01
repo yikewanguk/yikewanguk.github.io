@@ -53,21 +53,13 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
   
   Research Focus: Human-Computer Interaction, Aging and Technology  
 
-- **Master's Degree in Science (2019.09 - 2021.07)**  
-  **Imperial College London**, London, United Kingdom  
+- **Master's Degree in Science & Master's Degree in Art(2019.09 - 2021.07)**  
+  **Imperial College London & Royal Collge of Art**, London, United Kingdom  
 
-  Dyson School of Engineering
+  Dyson School of Engineering & School of Design
   
-  Major Courses: Human Computer Interaction, Innovation Product Engineering, Machine Learning, etc  
-
-- **Master's Degree in Art(2019.09 - 2021.06)**  
+  Major Courses: Human Computer Interaction, Innovation Product，Design Engineering,  Human Centered Design, etc
   
-  **Royal College of Art**, London, United Kingdom  
-
-  School of Design  
-  
-  Major Courses: Speculative Design, Human Centered Design, Material Futures, etc  
-
 - **Bachelor’s Degree in Art(2015.09 - 2019.06)**  
   
   **Zhejiang University of Technology**, Hangzhou, China  
