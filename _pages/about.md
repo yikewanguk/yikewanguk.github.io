@@ -32,35 +32,35 @@ Under Construction
 - **2018** Ant Design Innovation Award, Alibaba Group
 
 # 📖 Educations
-- **Ph.D. Candidate in Design Engineering(2024.09 - Now)**
+**Ph.D. Candidate in Design Engineering(2024.09 - Now)**
   
 **Tongji University**, Shanghai, China
   
-  College of Innovation and Design
+- College of Innovation and Design
   
-  Advisor: Prof. Nan Cao
+- Advisor: Prof. Nan Cao
   
-  Research Focus: Human-Computer Interaction, Aging and Technology  
+- Research Focus: Human-Computer Interaction, Aging and Technology  
 
-- **Master's Degree in Science & Master's Degree in Art(2019.09 - 2021.07)**
+**Master's Degree in Science & Master's Degree in Art(2019.09 - 2021.07)**
   
-  **Imperial College London & Royal Collge of Art**, London, United Kingdom  
+**Imperial College London & Royal Collge of Art**, London, United Kingdom  
 
-  Dyson School of Engineering & School of Design, [Innovation Design Engineering](https://www.rca.ac.uk/study/programme-finder/innovation-design-engineering-ma-msc/)
+- Dyson School of Engineering & School of Design, [Innovation Design Engineering](https://www.rca.ac.uk/study/programme-finder/innovation-design-engineering-ma-msc/)
   
-  Major Courses: Innovation Product，Hardware Development, Design Engineering, Human Centered Design, etc
+- Major Courses: Innovation Product，Hardware Development, Design Engineering, Human Centered Design, etc
   
-- **Bachelor’s Degree in Art(2015.09 - 2019.06)**  
+**Bachelor’s Degree in Art(2015.09 - 2019.06)**  
   
-  **Zhejiang University of Technology**, Hangzhou, China  
+**Zhejiang University of Technology**, Hangzhou, China  
 
-  Graduated with Honors  
+- Graduated with Honors  
   
-  GPA: 3.83/4.0  
+- GPA: 3.83/4.0  
   
-  Ranking: 1/126  
+- Ranking: 1/126  
   
-  Major Courses: User Experience, User Interface Design, Information Design, etc  
+- Major Courses: User Experience, User Interface Design, Information Design, etc  
 
 
 # 💻 Career
