@@ -56,7 +56,8 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - **Master's Degree in Science (2019.09 - 2021.07)**  
   **Imperial College London**, London, United Kingdom  
 
-  Dyson School of Engineering  
+  Dyson School of Engineering
+  
   Major Courses: Human Computer Interaction, Innovation Product Engineering, Machine Learning, etc  
 
 - **Master's Degree in Art(2019.09 - 2021.06)**  
