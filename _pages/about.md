@@ -46,6 +46,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 # 📖 Educations
 - **Ph.D. Candidate in Design Engineering(2024.09 - Now)**  
 **Tongji University**, Shanghai, China
+  
   College of Innovation and Design
   
   Advisor: Prof. Nan Cao
