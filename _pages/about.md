@@ -42,6 +42,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 # 🎖 Honors and Awards
 - **2019** Outstanding Graduate of Zhejiang Province (Top 1%)
 - **2018** Chinese National Scholarship, Zhejiang University of Technology (Top 1%)
+- **2018** Ant Design Innovation Award, Alibaba Group
 
 # 📖 Educations
 - **Ph.D. Candidate in Design Engineering(2024.09 - Now)**  
