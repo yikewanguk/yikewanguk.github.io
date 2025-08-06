@@ -72,6 +72,7 @@ Under Construction
 
 
 # 💻 Careers
+- *2024.02 - 2024.06*, Tsinghua University, Human Computer Interaction Lab, Beijing, China
 - *2021.09 - 2023.08*, [VML](https://www.vml.com/), Shanghai, China.
 - *2020.05 - 2020.09*, [TCL Tech](https://www.tcltech.com/), Shenzhen, China.
 - *2019.05 - 2019.08*, BIGmind, Sweden and Shanghai, China.
