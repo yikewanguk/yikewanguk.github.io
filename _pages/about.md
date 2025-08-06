@@ -62,11 +62,11 @@ Under Construction
   
 **Zhejiang University of Technology**, Hangzhou, China  
 
+- School of Design and Art
+
 - Graduated with Honors  
   
-- GPA: 3.83/4.0  
-  
-- Ranking: 1/126  
+- GPA: 3.83/4.0, Ranking: 1/126
   
 - Major Courses: User Experience, User Interface Design, Information Design, etc  
 
