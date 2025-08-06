@@ -56,7 +56,7 @@ Under Construction
 
 - Dyson School of Engineering & School of Design, [Innovation Design Engineering](https://www.rca.ac.uk/study/programme-finder/innovation-design-engineering-ma-msc/)
   
-- Major Courses: Innovation Product，Hardware Development, Design Engineering, Human Centered Design, etc
+- Major Courses: Innovation Product, Hardware Development, Design Engineering, Human Centered Design, etc
   
 **Bachelor’s Degree in Art(2015.09 - 2019.06)**  
   
