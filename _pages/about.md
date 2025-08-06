@@ -33,8 +33,8 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 Under Construction
 
 # 🎖 Honors and Awards
-- **2021** IF Award
-- **2021** Reddot Award
+- **2021** iF Design Award
+- **2021** Red Dot Design Award
 - **2019** Outstanding Graduate of Zhejiang Province (Top 1%)
 - **2018** Chinese National Scholarship, Zhejiang University of Technology (Top 1%)
 - **2018** Ant Design Innovation Award, Alibaba Group
