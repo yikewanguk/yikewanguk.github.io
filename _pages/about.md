@@ -23,7 +23,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 
 (1) Persuasive Health
 
-(2) Wearable Technology
+(2) Wearables to Overcome Disabilities
 
 
 # 🔥 News
