@@ -71,8 +71,8 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 
 
 # 📝 Publications 
-- **Capace: A Head-Mounted Haptic System for Attention Regulation in Adults with Deficit/Hyperactivity Disorder (ADHD)**, Wang et al. (*Under Review*, 2025).
-- **Designing Affective Biofeedback: A Survey of Emotion Regulation Systems for Chronic Health Conditions**, Wang et al. (*Under Review*, 2025).
+- [1] **Capace: A Head-Mounted Haptic System for Attention Regulation in Adults with Deficit/Hyperactivity Disorder (ADHD)**, Wang et al. (*Under Review*, 2025).
+- [2] **Designing Affective Biofeedback: A Survey of Emotion Regulation Systems for Chronic Health Conditions**, Wang et al. (*Under Review*, 2025).
 
 
 # 💻 Careers
