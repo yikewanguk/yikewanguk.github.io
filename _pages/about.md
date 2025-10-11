@@ -30,7 +30,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - *2024.09*: &nbsp;🎉🎉 Became a PhD Candidate in Tongji University!
 
 # 📝 Publications 
-Under Construction
+Capace: A Head-Mounted Haptic System for Attention Regulation in Adults with Deficit/Hyperactivity Disorder (ADHD), 2025 (Under Review)
 
 # 🎖 Honors and Awards
 - **2021** iF Design Award
