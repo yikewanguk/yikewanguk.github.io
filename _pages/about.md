@@ -29,12 +29,6 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Became a PhD Candidate in Tongji University!
 
-# 🎖 Honors and Awards
-- **2021** iF Design Award
-- **2021** Red Dot Design Award
-- **2019** Outstanding Graduate of Zhejiang Province (Top 1%)
-- **2018** Chinese National Scholarship, Zhejiang University of Technology (Top 1%)
-- **2018** Ant Design Innovation Award, Alibaba Group
 
 # 📖 Educations
 **Ph.D. Candidate in Design Engineering(2024.09 - Now)**
@@ -66,6 +60,15 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - GPA: 3.83/4.0, Ranking: 1/126
   
 - Major Courses: User Experience, User Interface Design, Information Design, etc
+
+
+# 🎖 Honors and Awards
+- **2021** iF Design Award
+- **2021** Red Dot Design Award
+- **2019** Outstanding Graduate of Zhejiang Province (Top 1%)
+- **2018** Chinese National Scholarship, Zhejiang University of Technology (Top 1%)
+- **2018** Ant Design Innovation Award, Alibaba Group
+
 
 # 📝 Publications 
 - **Capace: A Head-Mounted Haptic System for Attention Regulation in Adults with Deficit/Hyperactivity Disorder (ADHD)**, Wang et al. (*Under Review*, 2025).
