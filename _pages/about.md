@@ -55,8 +55,6 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 - Graduated with First Honor
   
 - GPA: 3.83/4.0, Ranking: 1/126
-  
-- Major Courses: User Experience, User Interface Design, Information Design, etc
 
 
 # 🎖 Honors and Awards
