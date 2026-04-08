@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at Tongji University, advised by Prof. Nan Cao. My background in Art (M.A, Royal College of Art) and Science (M.S.C, Imperial College London) uniquely positions me to bridge design insights with technical innovation. My research sits at the nexus of Human-Computer Interaction (HCI) and accessible technology, with a special emphasis on AI-augmented tools for aging populations and inclusive design principles. I integrate empirical user studies with cutting-edge technical developments to devise practical solutions that tackle authentic accessibility barriers in everyday life.
+I am a Ph.D student in Human-Computer Interaction, College of Innovation and Design at Tongji University, advised by Prof. Nan Cao. My background in Art (M.A, Royal College of Art) and Science (M.S.C, Imperial College London) uniquely positions me to bridge design insights with technical innovation. My research sits at the nexus of Human-Computer Interaction (HCI) and accessible technology, with a special emphasis on AI-augmented tools for aging populations and inclusive design principles. I integrate empirical user studies with cutting-edge technical developments to devise practical solutions that tackle authentic accessibility barriers in everyday life.
 
 **[Research Focus]**: Aging, Persuasive Health, Wearable Technology
 
