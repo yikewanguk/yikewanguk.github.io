@@ -52,9 +52,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 
 - School of Design and Art
 
-- Graduated with First Honor
-  
-- GPA: 3.83/4.0, Ranking: 1/126
+- Graduated with Distinction, GPA: 3.83/4.0, Ranking: 1/126
 
 
 # 🎖 Honors and Awards
