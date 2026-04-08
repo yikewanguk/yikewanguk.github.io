@@ -28,7 +28,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 
 
 # 📖 Educations
-**Ph.D. Candidate in Design Engineering(2024.09 - Now)**
+**Ph.D. Candidate in Design Engineering (2024.09 - Now)**
   
 **Tongji University**, Shanghai, China
   
@@ -38,7 +38,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
   
 - Research Focus: Human-Computer Interaction, Aging and Technology  
 
-**Master's Degree in Science & Master's Degree in Art(2019.09 - 2021.07)**
+**Master's Degree in Science & Master's Degree in Art (2019.09 - 2021.07)**
   
 **Imperial College London & Royal Collge of Art**, London, United Kingdom  
 
@@ -46,7 +46,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
   
 - Major Courses: Innovation Product System, Hardware Development, Design Engineering, etc
   
-**Bachelor’s Degree in Art(2015.09 - 2019.06)**  
+**Bachelor’s Degree in Art (2015.09 - 2019.06)**  
   
 **Zhejiang University of Technology**, Hangzhou, China  
 
