@@ -19,11 +19,8 @@ redirect_from:
 
 I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at Tongji University, advised by Prof. Nan Cao. My background in Art (M.A, Royal College of Art) and Science (M.S.C, Imperial College London) uniquely positions me to bridge design insights with technical innovation. My research sits at the nexus of Human-Computer Interaction (HCI) and accessible technology, with a special emphasis on AI-augmented tools for aging populations and inclusive design principles. I integrate empirical user studies with cutting-edge technical developments to devise practical solutions that tackle authentic accessibility barriers in everyday life.
 
-**[Research Interests]**:
+**[Research Focus]**: Aging, Persuasive Health, Wearable Technology
 
-(1) Persuasive Health
-
-(2) Wearables to Overcome Disabilities
 
 
 # 🔥 News
@@ -55,7 +52,7 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 
 - School of Design and Art
 
-- Graduated with Honors  
+- Graduated with First Honor
   
 - GPA: 3.83/4.0, Ranking: 1/126
   
@@ -78,5 +75,5 @@ I am a Ph.D in Human-Computer Interaction, College of Innovation and Design at T
 # 💻 Careers
 - *2024.02 - 2024.06*, Tsinghua University, Human Factors & Ergnomics Lab, Beijing, China.
 - *2021.09 - 2023.08*, [VML](https://www.vml.com/), Shanghai, China.
-- *2020.05 - 2020.09*, [TCL Tech](https://www.tcltech.com/), Shenzhen, China.
+- *2020.05 - 2020.09*, [TCL Tech, X-LAB](https://www.tcl.com/cn/zh/tcl-design/about-tcl-design), Shenzhen, China.
 - *2019.05 - 2019.08*, BIGmind, Sweden and Shanghai, China.
