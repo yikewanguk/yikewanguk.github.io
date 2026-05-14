@@ -64,7 +64,7 @@ I am a Ph.D student in Human-Computer Interaction, College of Innovation and Des
 
 
 # 📝 Publications 
-- [1] CGM-Led Multimodal Tracking with Chatbot Support: An Autoethnography in Sub-Health, Best Short Paper, [DOI](https://doi.org/10.48550/arXiv.2510.25381) (International Conference on Human-Engaged Computing (ICHEC 2025), Singapore). 
+- [1] CGM-Led Multimodal Tracking with Chatbot Support: An Autoethnography in Sub-Health, Best Short Paper, [DOI](https://doi.org/10.48550/arXiv.2510.25381), International Conference on Human-Engaged Computing (ICHEC 2025), Singapore. 
 
 
 # 💻 Careers
